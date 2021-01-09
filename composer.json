@@ -1,0 +1,14 @@
+{
+    "name": "fdciabdul/tmuxwabot",
+    "description": "termux whatsapp bot",
+    "type": "library",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Toin",
+            "email": "toin@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
